@@ -1,5 +1,5 @@
-<h1>Hey, I'm MrAugu (a.k.a. Augu)</h1>
-<p align="center">I am a high school student who loves coding.</p>
+<h1>Hey, I'm Tsunami2360 (a.k.a. Scooby)</h1>
+<p align="center">I am a univ student who is interested in coding!</p>
 <!-- <h1>Technologies</h1>
 <p align="center">
   <a text-decoration="none" href="https://nodejs.org/" title="Node.js">
@@ -93,7 +93,7 @@
  
  <h1>GitHub Activity</h1>
  <p align="center">
-   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=MrAugu&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrAugu&layout=compact&count_private=true&theme=tokyonight" alt="mraugu" />
+   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Tsunami2360&show_icons=true&count_private=true&theme=tokyonight" />&nbsp;<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tsunami2360&layout=compact&count_private=true&theme=tokyonight" alt="mraugu" />
 </p>
 
 <p align="center">Activity summary by <a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a>.</p>
