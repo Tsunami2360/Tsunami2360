@@ -1,4 +1,4 @@
-<h1>Hey, I'm Tsunami2360 (a.k.a. Scooby)</h1>
+<h1>Hey, I'm Tsunami (a.k.a. Scooby)</h1>
 <p align="center">I am a univ student who is interested in coding!</p>
 <p align="center">Contact me on Discord: Tsunami#6271</p>
 <!-- <h1>Technologies</h1>
